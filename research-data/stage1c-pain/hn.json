@@ -1,0 +1,446 @@
+[
+ [
+  "\"single point of failure\"",
+  155,
+  5678,
+  [
+   [
+    "Turns out half the internet has a single-point-of-failure called \u201cCloudflare\u201d",
+    972,
+    385,
+    "23897705"
+   ],
+   [
+    "Ask HN: Why did smartphones become a single point of failure?",
+    238,
+    280,
+    "32396685"
+   ],
+   [
+    "Turns out half the internet has a Single-Point-of-Failure called Cloudflare (2020)",
+    74,
+    26,
+    "32707543"
+   ]
+  ]
+ ],
+ [
+  "\"blast radius\"",
+  109,
+  2743,
+  [
+   [
+    "New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere",
+    55,
+    7,
+    "40919644"
+   ],
+   [
+    "Sharding to Contain the Blast Radius of Data Breaches",
+    22,
+    9,
+    "46194294"
+   ],
+   [
+    "Calculating my open source blast radius",
+    13,
+    1,
+    "29530522"
+   ]
+  ]
+ ],
+ [
+  "\"what depends on\"",
+  14,
+  154,
+  [
+   [
+    "Ask HN: How do you keep system context from rotting over time?",
+    35,
+    28,
+    "46693985"
+   ],
+   [
+    "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
+    10,
+    6,
+    "48762592"
+   ],
+   [
+    "Ask HN: What is happening to JavaScript with ES6 and friends?",
+    9,
+    10,
+    "13205017"
+   ]
+  ]
+ ],
+ [
+  "\"dependency hell\"",
+  89,
+  2065,
+  [
+   [
+    "\u201cFast Kernel Headers\u201d Tree -v1: Eliminate the Linux Kernel's \u201cDependency Hell\u201d",
+    549,
+    273,
+    "29777048"
+   ],
+   [
+    "2.3k Patch Would Improve Linux Build Times 50~80% & Fix \u201cDependency Hell\u201d",
+    392,
+    22,
+    "29775298"
+   ],
+   [
+    "Freezing Python\u2019s Dependency Hell",
+    200,
+    150,
+    "17607083"
+   ]
+  ]
+ ],
+ [
+  "\"circular dependency\"",
+  13,
+  404,
+  [
+   [
+    "Ask HN: Google login has circular dependency",
+    11,
+    10,
+    "42581148"
+   ],
+   [
+    "How to fix circular dependency issues in JavaScript and TypeScript (2018)",
+    2,
+    1,
+    "24758728"
+   ],
+   [
+    "Circular Dependency in Python",
+    2,
+    0,
+    "8904637"
+   ]
+  ]
+ ],
+ [
+  "\"agent memory\"",
+  277,
+  203,
+  [
+   [
+    "Agent memory as a file format",
+    191,
+    96,
+    "49508317"
+   ],
+   [
+    "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+    116,
+    40,
+    "48583703"
+   ],
+   [
+    "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+    81,
+    32,
+    "49581240"
+   ]
+  ]
+ ],
+ [
+  "\"forgets everything\"",
+  14,
+  80,
+  [
+   [
+    "The Handyman Principle: Why Your AI Forgets Everything",
+    3,
+    1,
+    "46467759"
+   ],
+   [
+    "Claude forgets everything between sessions \u2013 the architecture I built to fix it",
+    2,
+    0,
+    "48048327"
+   ],
+   [
+    "Pairing with a Partner Who Forgets Everything (saved game for work)",
+    1,
+    1,
+    "46034590"
+   ]
+  ]
+ ],
+ [
+  "\"lost context\"",
+  16,
+  107,
+  [
+   [
+    "Lost Context: How Did We End Up Here?",
+    2,
+    0,
+    "18167921"
+   ],
+   [
+    "Lost Context: How Did We End Up Here?",
+    1,
+    0,
+    "15275332"
+   ],
+   [
+    "Show HN: Superset \u2013 Run 10 parallel coding agents on your machine",
+    24,
+    3,
+    "46109015"
+   ]
+  ]
+ ],
+ [
+  "\"knowledge graph\"",
+  653,
+  2235,
+  [
+   [
+    "Why Nasa Converted Its Lessons-Learned Database into a Knowledge Graph",
+    292,
+    79,
+    "19095849"
+   ],
+   [
+    "Things Not Strings -- Google Launches Knowledge Graph",
+    284,
+    139,
+    "3982887"
+   ],
+   [
+    "KAG \u2013 Knowledge Graph RAG Framework",
+    230,
+    80,
+    "42545986"
+   ]
+  ]
+ ],
+ [
+  "\"graph database\"",
+  537,
+  1913,
+  [
+   [
+    "Postgres as a graph database",
+    624,
+    141,
+    "35386948"
+   ],
+   [
+    "Bullshit graph database performance benchmarks",
+    378,
+    113,
+    "34342371"
+   ],
+   [
+    "Cayley \u2013 An open-source graph database",
+    289,
+    89,
+    "7946024"
+   ]
+  ]
+ ],
+ [
+  "\"is there a tool\"",
+  166,
+  308,
+  [
+   [
+    "Ask HN: Is there a tool / product that enables commenting on HTML elements?",
+    91,
+    59,
+    "32315035"
+   ],
+   [
+    "Ask HN: Is there a tool to generate binary protocol figures out of a spec?",
+    51,
+    17,
+    "30895905"
+   ],
+   [
+    "Ask HN: Is there a tool you use just for reading code?",
+    21,
+    15,
+    "32289915"
+   ]
+  ]
+ ],
+ [
+  "\"impact analysis\"",
+  55,
+  215,
+  [
+   [
+    "Show HN: PipeRider \u2013 open-source Data Impact Analysis for dbt changes",
+    25,
+    3,
+    "37403960"
+   ],
+   [
+    "iOS 9 Content Blockers: Impact  Analysis and Mitigating Strategies",
+    20,
+    5,
+    "10284189"
+   ],
+   [
+    "Codecov releases Impact Analysis to public beta",
+    11,
+    1,
+    "31853022"
+   ]
+  ]
+ ],
+ [
+  "\"supply chain attack\"",
+  432,
+  1283,
+  [
+   [
+    "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+    1167,
+    433,
+    "46317098"
+   ],
+   [
+    "Polyfill supply chain attack hits 100K+ sites",
+    887,
+    370,
+    "40791829"
+   ],
+   [
+    "WordPress themes, plugins backdoored in supply chain attack",
+    468,
+    240,
+    "30041815"
+   ]
+  ]
+ ],
+ [
+  "\"who owns\"",
+  801,
+  11444,
+  [
+   [
+    "Who Owns My Name?",
+    908,
+    267,
+    "28007547"
+   ],
+   [
+    "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
+    673,
+    427,
+    "45469376"
+   ],
+   [
+    "Who owns the code Claude Code wrote?",
+    557,
+    530,
+    "47932937"
+   ]
+  ]
+ ],
+ [
+  "\"drug interaction\"",
+  9,
+  107,
+  [
+   [
+    "Algorithm Finds Thousands of Unknown Drug Interaction Side Effects",
+    103,
+    42,
+    "3707798"
+   ],
+   [
+    "Unexpected drug interaction: GLP-1 medications and sedative duration",
+    2,
+    1,
+    "45845536"
+   ],
+   [
+    "RxCheck \u2013 Drop-in replacement for the discontinued NLM drug interaction API",
+    2,
+    0,
+    "48369679"
+   ]
+  ]
+ ],
+ [
+  "\"transit visa\"",
+  2,
+  78,
+  [
+   [
+    "Transit Visa and a Chatbot Story",
+    2,
+    2,
+    "16264229"
+   ],
+   [
+    "Transit Visa and a Chatbot Story",
+    2,
+    0,
+    "16260609"
+   ]
+  ]
+ ],
+ [
+  "\"single source of truth\"",
+  130,
+  1670,
+  [
+   [
+    "Ask HN: Is a single source of truth not just a single point of failure?",
+    27,
+    14,
+    "33307421"
+   ],
+   [
+    "Show HN: Zingg \u2013 open-source entity resolution for single source of truth",
+    18,
+    11,
+    "30273915"
+   ],
+   [
+    "Ask HN: Best Practices for Creating a Golden Record or Single Source of Truth?",
+    11,
+    8,
+    "29947861"
+   ]
+  ]
+ ],
+ [
+  "\"root cause\"",
+  622,
+  19908,
+  [
+   [
+    "Root cause of Alzheimer's may be fat buildup in brain cells, research suggests",
+    331,
+    193,
+    "39760333"
+   ],
+   [
+    "Root cause analysis: significantly elevated error rates on 2019\u201107\u201110",
+    203,
+    108,
+    "20422337"
+   ],
+   [
+    "Final Root Cause Analysis of Nov 18 Azure Service Interruption",
+    198,
+    70,
+    "8763475"
+   ]
+  ]
+ ]
+]

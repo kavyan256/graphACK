@@ -1,0 +1,100 @@
+[
+ {
+  "title": "NF-\u03baB in biology and targeted therapy: new insights and translational ",
+  "authors": 9,
+  "candidates": 30,
+  "dist1": 0,
+  "dist2": 13
+ },
+ {
+  "title": "A survey on large language model based autonomous agents",
+  "authors": 10,
+  "candidates": 10,
+  "dist1": 0,
+  "dist2": 1
+ },
+ {
+  "title": "ProTox 3.0: a webserver for the prediction of toxicity of chemicals",
+  "authors": 4,
+  "candidates": 29,
+  "dist1": 0,
+  "dist2": 3
+ },
+ {
+  "title": "ADMETlab 3.0: an updated comprehensive online ADMET prediction platfor",
+  "authors": 10,
+  "candidates": 30,
+  "dist1": 0,
+  "dist2": 3
+ },
+ {
+  "title": "Accurate predictions on small data with a tabular foundation model",
+  "authors": 7,
+  "candidates": 30,
+  "dist1": 0,
+  "dist2": 3
+ },
+ {
+  "title": "A survey on large language model based autonomous agents",
+  "authors": 10,
+  "candidates": 10,
+  "dist1": 0,
+  "dist2": 1
+ },
+ {
+  "title": "A Survey of Large Language Models",
+  "authors": 10,
+  "candidates": 8,
+  "dist1": 0,
+  "dist2": 1
+ },
+ {
+  "title": "Lost in the Middle: How Language Models Use Long Contexts",
+  "authors": 6,
+  "candidates": 30,
+  "dist1": 0,
+  "dist2": 1
+ },
+ {
+  "title": "Embracing the future of Artificial Intelligence in the classroom: the ",
+  "authors": 1,
+  "candidates": 14,
+  "dist1": 0,
+  "dist2": 0
+ },
+ {
+  "title": "Improved charge extraction in inverted perovskite solar cells with dua",
+  "authors": 10,
+  "candidates": 30,
+  "dist1": 3,
+  "dist2": 20
+ },
+ {
+  "title": "Buried interface molecular hybrid for inverted perovskite solar cells",
+  "authors": 10,
+  "candidates": 15,
+  "dist1": 0,
+  "dist2": 0
+ },
+ {
+  "title": "Synthesis of green nanoparticles for energy, biomedical, environmental",
+  "authors": 10,
+  "candidates": 18,
+  "dist1": 0,
+  "dist2": 2
+ },
+ {
+  "title": "Highly efficient and stable perovskite solar cells via a multifunction",
+  "authors": 10,
+  "candidates": 30,
+  "dist1": 0,
+  "dist2": 7
+ },
+ {
+  "title": "Reinforcing self-assembly of hole transport molecules for stable inver",
+  "authors": 7,
+  "candidates": 27,
+  "dist1": 0,
+  "dist2": 5
+ }
+]

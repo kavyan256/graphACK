@@ -1,0 +1,42 @@
+[
+ {
+  "company": "Pfizer (United States)",
+  "topic": "mRNA vaccine",
+  "company_works_in_topic": 458,
+  "company_authors": 938,
+  "one_hop_set": 3866,
+  "experts": 45,
+  "tied_1hop": 6,
+  "tied_2hop_extra": 31
+ },
+ {
+  "company": "Bayer (Germany)",
+  "topic": "glyphosate",
+  "company_works_in_topic": 63,
+  "company_authors": 102,
+  "one_hop_set": 298,
+  "experts": 45,
+  "tied_1hop": 7,
+  "tied_2hop_extra": 28
+ },
+ {
+  "company": "Monsanto (United States)",
+  "topic": "glyphosate",
+  "company_works_in_topic": 45,
+  "company_authors": 115,
+  "one_hop_set": 233,
+  "experts": 45,
+  "tied_1hop": 6,
+  "tied_2hop_extra": 18
+ },
+ {
+  "company": "Google (United States)",
+  "topic": "large language model",
+  "company_works_in_topic": 600,
+  "company_authors": 1349,
+  "one_hop_set": 2760,
+  "experts": 45,
+  "tied_1hop": 9,
+  "tied_2hop_extra": 20
+ }
+]

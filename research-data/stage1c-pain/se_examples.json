@@ -1,0 +1,557 @@
+{
+ "askubuntu|\"safe to remove\"": [
+  {
+   "title": "Whats the .local folder for in my Home Directory",
+   "score": 221,
+   "views": 274825,
+   "link": "https://askubuntu.com/questions/14535/whats-the-local-folder-for-in-my-home-directory",
+   "year": 2010
+  },
+  {
+   "title": "Safe to remove /usr/src/linux-headers after purging older linux images?",
+   "score": 87,
+   "views": 78760,
+   "link": "https://askubuntu.com/questions/253048/safe-to-remove-usr-src-linux-headers-after-purging-older-linux-images",
+   "year": 2013
+  },
+  {
+   "title": "How do I remove cached .deb files?",
+   "score": 78,
+   "views": 176084,
+   "link": "https://askubuntu.com/questions/32191/how-do-i-remove-cached-deb-files",
+   "year": 2011
+  },
+  {
+   "title": "Is it safe to delete a lost+found folder?",
+   "score": 51,
+   "views": 119745,
+   "link": "https://askubuntu.com/questions/165614/is-it-safe-to-delete-a-lostfound-folder",
+   "year": 2012
+  },
+  {
+   "title": "Is Not Installed (Residual config) safe to remove all?",
+   "score": 43,
+   "views": 63884,
+   "link": "https://askubuntu.com/questions/376253/is-not-installed-residual-config-safe-to-remove-all",
+   "year": 2013
+  }
+ ],
+ "askubuntu|\"reverse dependencies\"": [
+  {
+   "title": "How to list dependent packages (reverse dependencies)?",
+   "score": 430,
+   "views": 403247,
+   "link": "https://askubuntu.com/questions/128524/how-to-list-dependent-packages-reverse-dependencies",
+   "year": 2012
+  },
+  {
+   "title": "How to fix apparmor=\"DENIED\" for telepathy-mission-control-5 under Ubuntu 14.04?",
+   "score": 6,
+   "views": 13631,
+   "link": "https://askubuntu.com/questions/490690/how-to-fix-apparmor-denied-for-telepathy-mission-control-5-under-ubuntu-14-04",
+   "year": 2014
+  },
+  {
+   "title": "declaring dependencies in upstart",
+   "score": 3,
+   "views": 634,
+   "link": "https://askubuntu.com/questions/267863/declaring-dependencies-in-upstart",
+   "year": 2013
+  },
+  {
+   "title": "reverse-depends: looking for reverse dependencies of source packages",
+   "score": 3,
+   "views": 1177,
+   "link": "https://askubuntu.com/questions/612411/reverse-depends-looking-for-reverse-dependencies-of-source-packages",
+   "year": 2015
+  },
+  {
+   "title": "Does apt-get purge remove reverse dependencies?",
+   "score": 2,
+   "views": 1847,
+   "link": "https://askubuntu.com/questions/651126/does-apt-get-purge-remove-reverse-dependencies",
+   "year": 2015
+  }
+ ],
+ "askubuntu|\"why is this package\"": [
+  {
+   "title": "Why is this Emacs package versioned at 46.1? 26 is the highest possible major version today",
+   "score": 11,
+   "views": 2785,
+   "link": "https://askubuntu.com/questions/881930/why-is-this-emacs-package-versioned-at-46-1-26-is-the-highest-possible-major-ve",
+   "year": 2017
+  },
+  {
+   "title": "Why is this package not shown in Synaptic Package Manager",
+   "score": 4,
+   "views": 267,
+   "link": "https://askubuntu.com/questions/47886/why-is-this-package-not-shown-in-synaptic-package-manager",
+   "year": 2011
+  },
+  {
+   "title": "Why is this package not removed with apt-get remove?",
+   "score": 2,
+   "views": 2262,
+   "link": "https://askubuntu.com/questions/1093699/why-is-this-package-not-removed-with-apt-get-remove",
+   "year": 2018
+  },
+  {
+   "title": "problem with upgrade - \"packages have been kept back\"",
+   "score": 1,
+   "views": 221,
+   "link": "https://askubuntu.com/questions/594584/problem-with-upgrade-packages-have-been-kept-back",
+   "year": 2015
+  },
+  {
+   "title": "How to remove package libboost-system1.58.0? currently have unmet dependencies",
+   "score": 1,
+   "views": 1061,
+   "link": "https://askubuntu.com/questions/1145770/how-to-remove-package-libboost-system1-58-0-currently-have-unmet-dependencies",
+   "year": 2019
+  }
+ ],
+ "stackoverflow|\"circular dependency\"": [
+  {
+   "title": "Resolve build errors due to circular dependency amongst classes",
+   "score": 495,
+   "views": 337349,
+   "link": "https://stackoverflow.com/questions/625799/resolve-build-errors-due-to-circular-dependency-amongst-classes",
+   "year": 2009
+  },
+  {
+   "title": "Sharing src/test classes between modules in a multi-module maven project",
+   "score": 202,
+   "views": 83859,
+   "link": "https://stackoverflow.com/questions/14722873/sharing-src-test-classes-between-modules-in-a-multi-module-maven-project",
+   "year": 2013
+  },
+  {
+   "title": "Circular dependency in Spring",
+   "score": 139,
+   "views": 198834,
+   "link": "https://stackoverflow.com/questions/3485347/circular-dependency-in-spring",
+   "year": 2010
+  },
+  {
+   "title": "\"Unable to find main class\" with Maven on spring-boot project in Eclipse",
+   "score": 130,
+   "views": 241331,
+   "link": "https://stackoverflow.com/questions/42937577/unable-to-find-main-class-with-maven-on-spring-boot-project-in-eclipse",
+   "year": 2017
+  },
+  {
+   "title": "AngularJS: Injecting service into a HTTP interceptor (Circular dependency)",
+   "score": 122,
+   "views": 47241,
+   "link": "https://stackoverflow.com/questions/20647483/angularjs-injecting-service-into-a-http-interceptor-circular-dependency",
+   "year": 2013
+  }
+ ],
+ "stackoverflow|\"impact analysis\"": [
+  {
+   "title": "C / C++ packages to understand code for refactoring",
+   "score": 21,
+   "views": 8479,
+   "link": "https://stackoverflow.com/questions/3777016/c-c-packages-to-understand-code-for-refactoring",
+   "year": 2010
+  },
+  {
+   "title": "Are there any \"fun\" ways to learn about Languages, Grammars, Parsing and Compilers?",
+   "score": 14,
+   "views": 6450,
+   "link": "https://stackoverflow.com/questions/5739133/are-there-any-fun-ways-to-learn-about-languages-grammars-parsing-and-compile",
+   "year": 2011
+  },
+  {
+   "title": "How to get VisualStudio 2010 cool tools without spending $12,000",
+   "score": 13,
+   "views": 3265,
+   "link": "https://stackoverflow.com/questions/1587502/how-to-get-visualstudio-2010-cool-tools-without-spending-12-000",
+   "year": 2009
+  },
+  {
+   "title": "Impact Analysis using Eclipse for Java application with framework code",
+   "score": 9,
+   "views": 6310,
+   "link": "https://stackoverflow.com/questions/1823928/impact-analysis-using-eclipse-for-java-application-with-framework-code",
+   "year": 2009
+  },
+  {
+   "title": "Migrate hibernate 3 to 5 guide needed?",
+   "score": 6,
+   "views": 18058,
+   "link": "https://stackoverflow.com/questions/44496327/migrate-hibernate-3-to-5-guide-needed",
+   "year": 2017
+  }
+ ],
+ "stackoverflow|\"find all usages\"": [
+  {
+   "title": "Find all occurrences of a function in Eclipse",
+   "score": 47,
+   "views": 58141,
+   "link": "https://stackoverflow.com/questions/4850831/find-all-occurrences-of-a-function-in-eclipse",
+   "year": 2011
+  },
+  {
+   "title": "How to turn off ReSharper's \"Find All Usages\"",
+   "score": 24,
+   "views": 6182,
+   "link": "https://stackoverflow.com/questions/587555/how-to-turn-off-resharpers-find-all-usages",
+   "year": 2009
+  },
+  {
+   "title": "How to rename a file in IntelliJ without finding usages?",
+   "score": 22,
+   "views": 25266,
+   "link": "https://stackoverflow.com/questions/16995312/how-to-rename-a-file-in-intellij-without-finding-usages",
+   "year": 2013
+  },
+  {
+   "title": "IntelliJ IDEA find usages of overriding method without finding sibling methods",
+   "score": 17,
+   "views": 6673,
+   "link": "https://stackoverflow.com/questions/53186563/intellij-idea-find-usages-of-overriding-method-without-finding-sibling-methods",
+   "year": 2018
+  },
+  {
+   "title": "Find all usages of toString() method",
+   "score": 15,
+   "views": 3349,
+   "link": "https://stackoverflow.com/questions/16942707/find-all-usages-of-tostring-method",
+   "year": 2013
+  }
+ ],
+ "stackoverflow|\"what will break\"": [
+  {
+   "title": "Difference between State, ST, IORef, and MVar",
+   "score": 102,
+   "views": 16066,
+   "link": "https://stackoverflow.com/questions/5545517/difference-between-state-st-ioref-and-mvar",
+   "year": 2011
+  },
+  {
+   "title": "In CI/CD how to manage dependency between frontend and backend?",
+   "score": 12,
+   "views": 9380,
+   "link": "https://stackoverflow.com/questions/53412038/in-ci-cd-how-to-manage-dependency-between-frontend-and-backend",
+   "year": 2018
+  },
+  {
+   "title": "Unit-testing for compile errors with C++",
+   "score": 8,
+   "views": 1800,
+   "link": "https://stackoverflow.com/questions/28683924/unit-testing-for-compile-errors-with-c",
+   "year": 2015
+  },
+  {
+   "title": "What will break if I don't have a git master branch?",
+   "score": 7,
+   "views": 378,
+   "link": "https://stackoverflow.com/questions/711217/what-will-break-if-i-dont-have-a-git-master-branch",
+   "year": 2009
+  },
+  {
+   "title": "Allocate money in particular order",
+   "score": 7,
+   "views": 449,
+   "link": "https://stackoverflow.com/questions/11777811/allocate-money-in-particular-order",
+   "year": 2012
+  }
+ ],
+ "serverfault|\"single point of failure\"": [
+  {
+   "title": "Distributed Storage Filesystem - Which one/Is there a ready to use product?",
+   "score": 32,
+   "views": 21659,
+   "link": "https://serverfault.com/questions/19257/distributed-storage-filesystem-which-one-is-there-a-ready-to-use-product",
+   "year": 2009
+  },
+  {
+   "title": "Load-balancer options",
+   "score": 25,
+   "views": 3975,
+   "link": "https://serverfault.com/questions/11286/load-balancer-options",
+   "year": 2009
+  },
+  {
+   "title": "Is AWS's Elastic Load Balancer a single point of failure?",
+   "score": 24,
+   "views": 15374,
+   "link": "https://serverfault.com/questions/608471/is-awss-elastic-load-balancer-a-single-point-of-failure",
+   "year": 2014
+  },
+  {
+   "title": "Multi-site high availability",
+   "score": 16,
+   "views": 8113,
+   "link": "https://serverfault.com/questions/357474/multi-site-high-availability",
+   "year": 2012
+  },
+  {
+   "title": "Geographically distributed, fault-tolerant and \"intelligent\" application/host monitoring systems",
+   "score": 12,
+   "views": 1587,
+   "link": "https://serverfault.com/questions/35895/geographically-distributed-fault-tolerant-and-intelligent-application-host-mo",
+   "year": 2009
+  }
+ ],
+ "serverfault|\"root cause\"": [
+  {
+   "title": "Is it better practice to buy RAID disks individually vs. in bulk?",
+   "score": 99,
+   "views": 13666,
+   "link": "https://serverfault.com/questions/870095/is-it-better-practice-to-buy-raid-disks-individually-vs-in-bulk",
+   "year": 2017
+  },
+  {
+   "title": "ZFS on FreeBSD: recovery from data corruption",
+   "score": 49,
+   "views": 14024,
+   "link": "https://serverfault.com/questions/297029/zfs-on-freebsd-recovery-from-data-corruption",
+   "year": 2011
+  },
+  {
+   "title": "Receiver limits TCP window size to 64,512",
+   "score": 35,
+   "views": 32567,
+   "link": "https://serverfault.com/questions/698504/receiver-limits-tcp-window-size-to-64-512",
+   "year": 2015
+  },
+  {
+   "title": "illegitimate traffic from user agent Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10 (.NET CLR 3.5.30729)",
+   "score": 31,
+   "views": 6971,
+   "link": "https://serverfault.com/questions/370378/illegitimate-traffic-from-user-agent-mozilla-5-0-windows-u-windows-nt-5-1-en",
+   "year": 2012
+  },
+  {
+   "title": "How do I prevent TCP connection freezes over an OpenVPN network?",
+   "score": 24,
+   "views": 35202,
+   "link": "https://serverfault.com/questions/488893/how-do-i-prevent-tcp-connection-freezes-over-an-openvpn-network",
+   "year": 2013
+  }
+ ],
+ "travel|\"connecting flight\"": [
+  {
+   "title": "Do I need a US visa to transit (or layover) through an American airport?",
+   "score": 72,
+   "views": 329375,
+   "link": "https://travel.stackexchange.com/questions/4859/do-i-need-a-us-visa-to-transit-or-layover-through-an-american-airport",
+   "year": 2012
+  },
+  {
+   "title": "No transit zone at Linate airport. Couldn't get on connecting flight. Whose responsibility is it?",
+   "score": 64,
+   "views": 9674,
+   "link": "https://travel.stackexchange.com/questions/150878/no-transit-zone-at-linate-airport-couldnt-get-on-connecting-flight-whose-resp",
+   "year": 2019
+  },
+  {
+   "title": "Do you have to take the second leg of a domestic flight?",
+   "score": 62,
+   "views": 128193,
+   "link": "https://travel.stackexchange.com/questions/4440/do-you-have-to-take-the-second-leg-of-a-domestic-flight",
+   "year": 2011
+  },
+  {
+   "title": "Why do airlines offer flight itineraries with unrealistically short layovers?",
+   "score": 47,
+   "views": 23821,
+   "link": "https://travel.stackexchange.com/questions/73893/why-do-airlines-offer-flight-itineraries-with-unrealistically-short-layovers",
+   "year": 2016
+  },
+  {
+   "title": "On landing in Paris, from India, which side of the plane to sit to see Eiffel tower?",
+   "score": 43,
+   "views": 15983,
+   "link": "https://travel.stackexchange.com/questions/121078/on-landing-in-paris-from-india-which-side-of-the-plane-to-sit-to-see-eiffel-to",
+   "year": 2018
+  }
+ ],
+ "travel|\"missed connection\"": [
+  {
+   "title": "Compensation for missed connection due to delay with same airline but separate bookings",
+   "score": 25,
+   "views": 6830,
+   "link": "https://travel.stackexchange.com/questions/118977/compensation-for-missed-connection-due-to-delay-with-same-airline-but-separate-b",
+   "year": 2018
+  },
+  {
+   "title": "Who is officially responsible for rebooking a missed connection?",
+   "score": 24,
+   "views": 3286,
+   "link": "https://travel.stackexchange.com/questions/84818/who-is-officially-responsible-for-rebooking-a-missed-connection",
+   "year": 2016
+  },
+  {
+   "title": "Which airline is liable for compensation in case of missed connection?",
+   "score": 20,
+   "views": 3748,
+   "link": "https://travel.stackexchange.com/questions/183192/which-airline-is-liable-for-compensation-in-case-of-missed-connection",
+   "year": 2023
+  },
+  {
+   "title": "Possible reimbursement for missed connection due to gate change",
+   "score": 18,
+   "views": 5052,
+   "link": "https://travel.stackexchange.com/questions/35073/possible-reimbursement-for-missed-connection-due-to-gate-change",
+   "year": 2014
+  },
+  {
+   "title": "Why would an airline give me an impossible (negative time) connection?",
+   "score": 17,
+   "views": 4910,
+   "link": "https://travel.stackexchange.com/questions/186243/why-would-an-airline-give-me-an-impossible-negative-time-connection",
+   "year": 2024
+  }
+ ],
+ "genealogy|\"common ancestor\"": [
+  {
+   "title": "Intra Family marriage / rejoining family trees?",
+   "score": 22,
+   "views": 5579,
+   "link": "https://genealogy.stackexchange.com/questions/2587/intra-family-marriage-rejoining-family-trees",
+   "year": 2012
+  },
+  {
+   "title": "Contacting living distant relatives?",
+   "score": 20,
+   "views": 10809,
+   "link": "https://genealogy.stackexchange.com/questions/255/contacting-living-distant-relatives",
+   "year": 2012
+  },
+  {
+   "title": "Generational Loss of Data with DNA Testing",
+   "score": 11,
+   "views": 2517,
+   "link": "https://genealogy.stackexchange.com/questions/6668/generational-loss-of-data-with-dna-testing",
+   "year": 2014
+  },
+  {
+   "title": "Partial matches on Triangulated DNA segments",
+   "score": 7,
+   "views": 571,
+   "link": "https://genealogy.stackexchange.com/questions/11762/partial-matches-on-triangulated-dna-segments",
+   "year": 2016
+  },
+  {
+   "title": "Is there anything wrong with using small DNA segment matches as evidence?",
+   "score": 7,
+   "views": 209,
+   "link": "https://genealogy.stackexchange.com/questions/17622/is-there-anything-wrong-with-using-small-dna-segment-matches-as-evidence",
+   "year": 2020
+  }
+ ],
+ "money|\"parent company\"": [
+  {
+   "title": "Is it better to ask for a raise before a spin-off / merger or after?",
+   "score": 10,
+   "views": 3782,
+   "link": "https://money.stackexchange.com/questions/8693/is-it-better-to-ask-for-a-raise-before-a-spin-off-merger-or-after",
+   "year": 2011
+  },
+  {
+   "title": "Alternatives to Intuit's PayTrust service for online bill viewing and bill payment?",
+   "score": 10,
+   "views": 10782,
+   "link": "https://money.stackexchange.com/questions/11285/alternatives-to-intuits-paytrust-service-for-online-bill-viewing-and-bill-payme",
+   "year": 2011
+  },
+  {
+   "title": "Company is requesting W-9 before refunding purchase",
+   "score": 9,
+   "views": 10893,
+   "link": "https://money.stackexchange.com/questions/16664/company-is-requesting-w-9-before-refunding-purchase",
+   "year": 2012
+  },
+  {
+   "title": "Can a subsidiary/division of a company have a larger market cap than the parent company?",
+   "score": 9,
+   "views": 3189,
+   "link": "https://money.stackexchange.com/questions/142710/can-a-subsidiary-division-of-a-company-have-a-larger-market-cap-than-the-parent",
+   "year": 2021
+  },
+  {
+   "title": "Do I have to pay tax in US when my stay extends 183 days. I don't earn in US",
+   "score": 6,
+   "views": 20792,
+   "link": "https://money.stackexchange.com/questions/24797/do-i-have-to-pay-tax-in-us-when-my-stay-extends-183-days-i-dont-earn-in-us",
+   "year": 2013
+  }
+ ],
+ "medicalsciences|\"drug interaction\"": [
+  {
+   "title": "How offput should one be when drug interaction checkers say \"X will decrease/increase the level or effect of Y by altering drug metabolism\"?",
+   "score": 5,
+   "views": 143,
+   "link": "https://medicalsciences.stackexchange.com/questions/1307/how-offput-should-one-be-when-drug-interaction-checkers-say-x-will-decrease-inc",
+   "year": 2015
+  },
+  {
+   "title": "Significantly reduced absorption of Ciprofloxacin with concurrently administered Sucralfate is utilized intentionally to treat Colitis?",
+   "score": 5,
+   "views": 99,
+   "link": "https://medicalsciences.stackexchange.com/questions/18716/significantly-reduced-absorption-of-ciprofloxacin-with-concurrently-administered",
+   "year": 2019
+  },
+  {
+   "title": "Minimum time between typhoid vaccine and prednisone treatment?",
+   "score": 2,
+   "views": 305,
+   "link": "https://medicalsciences.stackexchange.com/questions/4021/minimum-time-between-typhoid-vaccine-and-prednisone-treatment",
+   "year": 2015
+  },
+  {
+   "title": "Any drug interactions between Ginkgo Biloba and psychotropics?",
+   "score": 2,
+   "views": 743,
+   "link": "https://medicalsciences.stackexchange.com/questions/13072/any-drug-interactions-between-ginkgo-biloba-and-psychotropics",
+   "year": 2017
+  },
+  {
+   "title": "Is there a \"cancelling\" drug interaction?",
+   "score": 1,
+   "views": 52,
+   "link": "https://medicalsciences.stackexchange.com/questions/20398/is-there-a-cancelling-drug-interaction",
+   "year": 2019
+  }
+ ],
+ "academia|\"retracted\"": [
+  {
+   "title": "Rediscovery of calculus in 1994: what should have happened to that paper?",
+   "score": 233,
+   "views": 147219,
+   "link": "https://academia.stackexchange.com/questions/9602/rediscovery-of-calculus-in-1994-what-should-have-happened-to-that-paper",
+   "year": 2013
+  },
+  {
+   "title": "Researchers had a paper retracted due to plagiarism and no one at their university is aware of it",
+   "score": 62,
+   "views": 9345,
+   "link": "https://academia.stackexchange.com/questions/68121/researchers-had-a-paper-retracted-due-to-plagiarism-and-no-one-at-their-universi",
+   "year": 2016
+  },
+  {
+   "title": "Got accused of plagiarism due to a reference lost during copying my own writing",
+   "score": 56,
+   "views": 30613,
+   "link": "https://academia.stackexchange.com/questions/110622/got-accused-of-plagiarism-due-to-a-reference-lost-during-copying-my-own-writing",
+   "year": 2018
+  },
+  {
+   "title": "Does having an article retracted due to professor's ethical misconduct mean my career is over?",
+   "score": 54,
+   "views": 18859,
+   "link": "https://academia.stackexchange.com/questions/114254/does-having-an-article-retracted-due-to-professors-ethical-misconduct-mean-my-c",
+   "year": 2018
+  },
+  {
+   "title": "Retract an already submitted recommendation letter (written for an undergrad student)",
+   "score": 50,
+   "views": 25169,
+   "link": "https://academia.stackexchange.com/questions/128582/retract-an-already-submitted-recommendation-letter-written-for-an-undergrad-stu",
+   "year": 2019
+  }
+ ]
+}
